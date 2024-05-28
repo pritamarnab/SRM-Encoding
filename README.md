@@ -4,4 +4,4 @@ This analysis uses shared response model (SRM) to find a share space across subj
 
 ## Installation
 
-> python3 -m pip install brainiak
+`python3 -m pip install brainiak`

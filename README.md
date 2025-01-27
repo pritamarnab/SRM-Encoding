@@ -2,8 +2,12 @@
 
 This analysis uses shared response model (SRM) to find a share space across subjects and carries out analysis reported in [paper](https://www.biorxiv.org/content/10.1101/2024.06.04.597448v1.full.pdf) 
 
-Sample data is available [here](https://zenodo.org/records/11598062) 
+Preprocessed data is available [here]( https://zenodo.org/records/14730569) 
+Raw data is [here]() 
 
 ## Installation
 
 `python3 -m pip install brainiak`
+conda env create -f srm_arnab.yml
+
+For MAC users, please follow [this](https://github.com/brainiak/brainiak/issues/548) 

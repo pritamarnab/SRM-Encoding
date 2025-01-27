@@ -2,7 +2,7 @@
 
 This analysis uses shared response model (SRM) to find a share space across subjects and carries out analysis reported in [paper](https://www.biorxiv.org/content/10.1101/2024.06.04.597448v1.full.pdf) 
 
-Preprocessed data is available [here]( https://zenodo.org/records/14730569) 
+Preprocessed data is available [here]( https://zenodo.org/records/14730569).
 Raw data is [here]() 
 
 ## Installation

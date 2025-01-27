@@ -7,7 +7,6 @@ Raw data is [here]()
 
 ## Installation
 
-`python3 -m pip install brainiak`
-conda env create -f srm_arnab.yml
+`conda env create -f srm_arnab.yml`
 
 For MAC users, please follow [this](https://github.com/brainiak/brainiak/issues/548) 

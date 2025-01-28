@@ -4,6 +4,7 @@ This analysis uses shared response model (SRM) to find a share space across subj
 
 Preprocessed data is available [here]( https://zenodo.org/records/14730569).
 Raw data is [here]() 
+Subjects details including the subject-wise electrode brain area, coordinate and type is in 'subject_info.csv'
 
 ## Installation
 

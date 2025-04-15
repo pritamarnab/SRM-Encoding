@@ -6,7 +6,7 @@ Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedma
 
 We provide a Jupyter Notebook with code needed to reproduces all of the results in the paper: [`SRM_encoding.ipynb`](https://github.com/snastase/SRM-Encoding/blob/main/SRM_encoding.ipynb). Since each function takes a considerable amount of time to run at scale, we have added intermediate results files to expedite visualization. 
 
-The preprocessed data used in the manuscript and notebook are available on Zenodo: https://zenodo.org/records/14730569
+The preprocessed data used in the manuscript and notebook are available on Zenodo: https://zenodo.org/records/15220273
 
 The raw "Podcast" ECoG dataset is available on OpenNeuro: https://openneuro.org/datasets/ds005574/versions/1.0.0
 

@@ -14,11 +14,12 @@ Subject details, including the subject-wise electrode brain area, coordinate, an
 
 ## Installation
 
-To install the environment used for these analyses (on Linux), clone the repo and then use the following command:
+Install BrainIAK wheels from PyPI on Linux, macOS, and Windows, e.g. using pip:
+
+'python3 -m pip install brainiak'
+
+If you want to install the environment used for these analyses (on Linux), clone the repo and then use the following command:
 
 `conda env create -f srm_arnab.yml`
-
-For Mac users, please see the detailed instructions for installing BrainIAK here:
-https://brainiak.org/docs/installation.html
 
 If you run into any problems, please raise an [issue](https://github.com/pritamarnab/SRM-Encoding/issues) on the GitHub repo.

@@ -4,7 +4,7 @@ This repository accompanies a manuscript using a shared response model (SRM; Che
 
 Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & Nastase, S. A.\* (2024). Aligning brains into a shared space improves their alignment to large language models. *bioRxiv*. https://doi.org/10.1101/2024.06.04.597448
 
-We provide a Jupyter Notebook with code needed to reproduces all of the results in the paper: [`SRM_encoding.ipynb`](https://github.com/snastase/SRM-Encoding/blob/main/SRM_encoding.ipynb). Since each function takes a considerable amount of time to run at scale, we have added intermediate results files to expedite visualization. 
+We provide a Jupyter Notebook with code needed to reproduces all of the results in the paper: [`SRM_encoding.ipynb`](https://github.com/pritamarnab/SRM-Encoding/blob/main/SRM_encoding.ipynb). Since each function takes a considerable amount of time to run at scale, we have added intermediate results files to expedite visualization. 
 
 The preprocessed data used in the manuscript and notebook are available on Zenodo: https://zenodo.org/records/15220273
 

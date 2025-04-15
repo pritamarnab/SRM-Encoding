@@ -16,7 +16,7 @@ Subject details, including the subject-wise electrode brain area, coordinate, an
 
 Install BrainIAK wheels from PyPI on Linux, macOS, and Windows, e.g. using pip:
 
-'python3 -m pip install brainiak'
+`python3 -m pip install brainiak`
 
 If you want to install the environment used for these analyses (on Linux), clone the repo and then use the following command:
 

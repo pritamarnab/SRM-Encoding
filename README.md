@@ -22,4 +22,7 @@ If you want to install the environment used for these analyses (on Linux), clone
 
 `conda env create -f srm_arnab.yml`
 
+For Mac users, please see the detailed instructions for installing BrainIAK here:
+ https://brainiak.org/docs/installation.html
+
 If you run into any problems, please raise an [issue](https://github.com/pritamarnab/SRM-Encoding/issues) on the GitHub repo.

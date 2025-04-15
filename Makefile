@@ -8,7 +8,7 @@
 
 %-srm: cv = 10
 %-srm: srm_k ?= 5
-%-srm: lags = $(shell seq -2000 25 2025)
+%-srm: lags = $(shell seq -2000 25 2000)
 
 # %-srm: a1= --encoding_original_neural_data
 # %-srm: a2= --encoding_shared_space
